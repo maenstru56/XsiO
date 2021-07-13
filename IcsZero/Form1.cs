@@ -28,6 +28,7 @@ namespace IcsZero
             b = true;
 
             label1.Text = "";
+
             label2.Text = "";
             label3.Text = "";
             label4.Text = "";
